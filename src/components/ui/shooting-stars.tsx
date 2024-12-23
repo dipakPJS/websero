@@ -25,7 +25,7 @@ interface ShootingStarsProps {
 }
 
 const getRandomStartPoint = () => {
-  const side = Math.floor(Math.random() * 10);
+  const side = Math.floor(Math.random() * 4);
   const offset = Math.random() * window.innerWidth;
 
   switch (side) {
@@ -46,9 +46,9 @@ export const ShootingStars: React.FC<ShootingStarsProps> = ({
   maxSpeed = 30,
   minDelay = 1200,
   maxDelay = 4200,
-  starColor = "purple",
-  trailColor = "blue",
-  starWidth = 20,
+  starColor = "#9E00FF",
+  trailColor = "#2EB9DF",
+  starWidth = 10,
   starHeight = 1,
   className,
 }) => {
