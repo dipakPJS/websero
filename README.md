@@ -1,2 +1,0 @@
-# websero
-it my agency

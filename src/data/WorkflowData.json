@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Weekely Updates",
+        "description": "Even daily - it’s up to you. WEBSERO is the place of detailed briefing sessions, clear communication & team work. We set up an individual system for each client, to make the work go smoothly step by step like watching Netflix on Friday evening."
+    },
+    {
+        "id": 2,
+        "title": "Working System",
+        "description": "Multitasking is our superpower, which means we know how to coordinate processes according to deadlines and deliver the project before the time comes"
+    },
+    {
+        "id": 3,
+        "title": "Keep In Touch",
+        "description": "We’re your main support during the whole project period and responsible for being reliable partners in the most stressful situations. It demands a lot of dedication, which we are aware of, therefore you’ll be provided with every communication channel to contact us in just one click."
+    },
+    {
+        "id": 4,
+        "title": "Transparency",
+        "description": "You’re fully informed about every step we take to move forward. To make it possible, we arrange the working environment, which includes several instruments to keep us on the same page."
+    }
+]

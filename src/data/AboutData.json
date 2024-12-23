@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Transparency and honesty in communication",
+        "description": "Open dialogue with the client. We communicate the real status of the project to our clients, the challenges we encounter, and how it impacts the workflow"
+    },
+    {
+        "id": 2,
+        "title": "Clients = Partners",
+        "description": "We work as equals and are invested in our client's product as if it were our own. That's why, during the project, we fully immerse ourselves in their team. We listen attentively to our clients, their pain points, and the pain points of their users. We collaborate as a team to achieve a great result."
+    },
+    {
+        "id": 3,
+        "title": "We're interested in results, not just completing tasks",
+        "description": "In every project, we meticulously study the clients business task instead of mindlessly completing it. It's important for us to understand what, for whom, and why we're doing it. We value clients whose tasks we can enhance beyond their expectations, rather than just being hands that do the job. "
+    },
+    {
+        "id": 4,
+        "title": "Process and working Methodology",
+        "description": "We adhere to a clear working methodology throughout the entire project. This allows us to stay on schedule, have a detailed view of what's happening in the project, and enables our partners to stay informed, see the current status of work, receive weekly reports."
+    },
+    {
+        "id": 5,
+        "title": "We do what we love, and love what we do",
+        "description": "We believe that to excel in your work, you must love it  and live it. Finding joy in what we do is crucial to us, which is why we are passionate about our craft. We strive for more because we find fulfillment in the work we love."
+    }
+]

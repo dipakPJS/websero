@@ -1,0 +1,31 @@
+[
+    {
+      "quote":
+        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
+      "name": "Dipak Pokharel",
+      "designation": "CEO of Purnima_verse",
+      "src": "/images/ceo.jpg"
+    },
+    {
+      "quote":
+        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
+      "name": "Purnima Neupane",
+      "designation": "CTO at Websero Creatives",
+      "src": "/images/beauty.png"
+    },
+    {
+      "quote":
+        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
+      "name": "Dipendra Pokharel",
+      "designation": "Operations Director at CloudScale",
+      "src": "/images/robot.png"
+    },
+    {
+      "quote":
+        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
+      "name": "Dilip Pokharel",
+      "designation": "Engineering Lead at DataPro",
+      "src": "/images/beautiful.png"
+    }
+    
+  ]

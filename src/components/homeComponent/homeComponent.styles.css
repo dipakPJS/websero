@@ -1,0 +1,11 @@
+.curve {
+    height: 200px;
+  }
+  
+  .curve-inner {
+    border-radius: 0 0 50% 50% / 0 0 100% 100%;
+    background-color: black;
+    transform: scale(1.5);
+   
+  }
+  

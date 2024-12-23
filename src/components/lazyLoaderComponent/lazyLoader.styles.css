@@ -1,0 +1,44 @@
+/* Neon colors for gradient stops */
+.stopp1 {
+    stop-color: #e600ff;
+  }
+  
+  .stopp2 {
+    stop-color: #2538c8;
+  }
+  
+  /* Stroke and animation styling for path and circle */
+  .halvan {
+    stroke-dasharray: 180 800;
+    fill: none;
+    stroke: url(#gradient);
+    stroke-width: 23;
+    stroke-linecap: round;
+  }
+  
+  .strecken {
+    stroke-dasharray: 26 54;
+    fill: none;
+    stroke: url(#gradient);
+    stroke-width: 23;
+    stroke-linecap: round;
+  }
+  
+  /* Neon glow for animated SVG */
+  .glow-svg {
+    filter: drop-shadow(0 0 10px #e600ff) drop-shadow(0 0 10px #2538c8);
+  }
+  
+  @keyframes Snurra1 {
+    0% {
+      stroke-dashoffset: 0;
+    }
+    100% {
+      stroke-dashoffset: -403px;
+    }
+  }
+  
+  .animate-snurr1 {
+    animation: Snurra1 5s infinite linear;
+  }
+  

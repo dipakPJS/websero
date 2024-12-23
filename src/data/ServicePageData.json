@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Web Desgin",
+    "description": "We’re focused on producing quality, unique and visually stunning user-friendly websites. There is no cookie cutter websites here, your new web presence will captivate and remain authentic. We believe you were born to stand out, and your website should too."
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "description": "We work hard to ensure that your site has both creative flair and function. Our team of developers build clean and efficient websites that are responsive across all devices, so that users can enjoy them from wherever they choose to browse. Whether you're a business that needs e-commerce, portfolio site or something more enterprise, we've got you covered."
+  },
+  {
+    "id": 3,
+    "title": "Website Maintenance & Support",
+    "description": "Ensure your website runs smoothly with our comprehensive maintenance and support services. From regular updates and security checks to troubleshooting and performance optimization, we keep your site secure, up-to-date, and fully functional. Let us handle the technical side, so you can focus on growing your business."
+  },
+  {
+    "id": 4,
+    "title": "Branding",
+    "description": "Your brand is more than just captivating logo! We want to tell your story in the right way and capture all the characteristics of your brand to help you stand out against the competition. Our dynamic branding approach will help you to make a bold entrance, or freshen things up."
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing",
+    "description": "Ready to take your brand to the next level? With our digital marketing expertise, we can help you reach and engage your audience through digital campaigns. After all, there is no point having an amazing website, if nobody knows it’s there, right?"
+  },
+  {
+    "id": 6,
+    "title": "Social Media Marketing (SMM)",
+    "description": "Boost your online presence with our Social Media Marketing services. We create and manage targeted campaigns across platforms like Facebook, Instagram, Twitter, and LinkedIn to engage your audience, drive traffic, and increase conversions. Our strategies are tailored to grow your brand and connect with your ideal customers."
+  },
+  {
+    "id": 7,
+    "title": "Ads Management",
+    "description": "Maximize your ROI with our expert Ads Management services. We create and optimize paid campaigns across platforms like Google Ads, Facebook, and Instagram, ensuring your ads reach the right audience at the right time. From strategy development to performance tracking, we handle every aspect to drive traffic, increase leads, and boost sales."
+  }
+]

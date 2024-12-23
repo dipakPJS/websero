@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Website",
+        "description": "Turn key development from prototype to the finished site."
+    },
+    {
+        "id": 2,
+        "title": "Web Design",
+        "description": "Only the design of the website or application."
+    },
+    {
+        "id": 3,
+        "title": "Development",
+        "description": "Only the development of the website or application"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Consultation",
+        "image": "/images/consultation.jpg",
+        "description": "Quick consultation, addressing your businesses wants and needs"
+    },
+    {
+        "id": 2,
+        "title": "Asset Arrangement",
+        "image": "/images/asset-management.jpg",
+        "description": "Client collates logos, content and images  and sends across to us."
+    },
+    {
+        "id": 3,
+        "title": "Design and Development",
+        "image": "/images/web-design.jpg",
+        "description": "Beginning of development phase, building your website from scratch."
+    },
+    {
+        "id": 4,
+        "title": "Payments and Site Publish",
+        "image": "/images/payment.jpg",
+        "description": "Once all payments are received, the site will be live for the world to see!"
+    }
+]

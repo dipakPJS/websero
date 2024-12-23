@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "level": "Basic",
+    "title": "Starter Website Package",
+    "price": "$300 - $500",
+    "description": "Perfect for freelancers, hobbyists, or startups needing a simple, professional online presence to showcase their work. This one-page site covers basic information and contact details.",
+    "pages": "1",
+
+    "duration": "1 week",
+    "additional": [
+      "Social Media Marketing - $150/month",
+      "Ads - $200/month",
+      "SEO Setup - $300 (one-time)"
+    ]
+  },
+  {
+    "id": 2,
+    "level": "Basic",
+    "title": "Personal Blog Package",
+    "price": "$500 - $800",
+    "description": "Ideal for bloggers or influencers looking to build an online community. This package provides a blog-friendly site with an easy-to-use CMS for managing content.",
+    "pages": "Up to 3",
+
+    "duration": "1-2 weeks",
+    "additional": [
+      "Social Media Marketing - $200/month",
+      "Ads - $250/month",
+      "SEO Setup - $400 (one-time)",
+      "Content Marketing - $500/month"
+    ]
+  },
+  {
+    "id": 3,
+    "level": "Basic",
+    "title": "Small Business Website",
+    "price": "$1,000 - $1,500",
+    "description": "Best suited for small businesses needing an online storefront or professional website with contact forms, testimonials, and service descriptions.",
+    "pages": "Up to 5",
+
+    "duration": "2-3 weeks",
+    "additional": [
+      "Social Media Marketing - $300/month",
+      "Ads - $300/month",
+      "SEO Setup - $500 (one-time)",
+      "Content Marketing - $600/month"
+    ]
+  },
+  {
+    "id": 4,
+    "level": "Content-Focused",
+    "title": "Advanced Blog Package",
+    "price": "$2,000 - $3,000",
+    "description": "Great for content-heavy sites, media brands, or bloggers looking for a custom design with added animations and enhanced SEO.",
+    "pages": "Up to 7",
+
+    "duration": "3-4 weeks",
+    "additional": [
+      "Social Media Marketing - $350/month",
+      "Ads - $350/month",
+      "SEO Setup - $600 (one-time)",
+      "Content Marketing - $700/month"
+    ]
+  },
+  {
+    "id": 5,
+    "level": "Content-Focused",
+    "title": "Corporate Website Package",
+    "price": "$3,000 - $4,000",
+    "description": "Designed for medium-sized businesses needing a professional site with custom features, animations, and scalable SEO.",
+    "pages": "Up to 8",
+
+    "duration": "4-6 weeks",
+    "additional": [
+      "Social Media Marketing - $400/month",
+      "Ads - $400/month",
+      "SEO Setup - $700 (one-time)",
+      "Content Marketing - $800/month"
+    ]
+  },
+  {
+    "id": 6,
+    "level": "Content-Focused",
+    "title": "E-Commerce Starter Package",
+    "price": "$5,000 - $6,500",
+    "description": "A great fit for startups or small e-commerce businesses needing a functional online store with essential shopping features and SEO.",
+    "pages": "Up to 10",
+
+    "duration": "6-8 weeks",
+    "additional": [
+      "Social Media Marketing - $500/month",
+      "Ads - $500/month",
+      "SEO Setup - $900 (one-time)",
+      "Email Marketing Automation - $400/month"
+    ]
+  },
+  {
+    "id": 7,
+    "level": "Custom",
+    "title": "Custom Web Application",
+    "price": "$7,500 - $10,000",
+    "description": " Suitable for businesses requiring a custom web app, such as an interactive user dashboard or booking system, with a CMS for easy content updates.",
+    "pages": "Custom (10-15 interactive pages)",
+
+    "duration": "8-10 weeks",
+    "additional": [
+      "Social Media Marketing - $600/month",
+      "Ads - $600/month",
+      "SEO Setup - $1,200 (one-time)",
+      "Content Marketing - $1,200/month"
+    ]
+  },
+  {
+    "id": 8,
+    "level": "Custom",
+    "title": "Advanced Corporate Package",
+    "price": "$10,000 - $12,500",
+    "description": " Perfect for larger companies that need a corporate site with custom animations, enhanced user interaction, and in-depth SEO.",
+    "pages": "Up to 15",
+
+    "duration": "10-12 weeks",
+    "additional": [
+      "Social Media Marketing - $700/month",
+      "Ads - $700/month",
+      "SEO Setup - $1,500 (one-time)",
+      "Content Marketing - $1,500/month"
+    ]
+  },
+  {
+    "id": 9,
+    "level": "Custom",
+    "title": "Standard E-Commerce Package",
+    "price": "$15,000 - $18,000",
+    "description": " A robust solution for established e-commerce stores needing advanced features, such as product filters, custom checkout, and high-level SEO.",
+    "pages": "Up to 20",
+
+    "duration": "12-14 weeks",
+    "additional": [
+      "Social Media Marketing - $800/month",
+      "Ads - $800/month",
+      "SEO Setup - $1,800 (one-time)",
+      "Shopping Ads & Retargeting - $900/month"
+    ]
+  },
+  {
+    "id": 10,
+    "level": "Enterprise",
+    "title": "Professional Web Application",
+    "price": "$20,000 - $25,000",
+    "description": "Suitable for growing businesses or platforms needing a scalable, multi-user web app, such as a CRM, with complex functionalities.",
+    "pages": "Custom (15-20 pages)",
+
+    "duration": "12-16 weeks",
+    "additional": [
+      "Social Media Marketing - $1,000/month",
+      "Ads - $1,000/month",
+      "SEO Setup - $2,500 (one-time)",
+      "Content Marketing - $2,000/month"
+    ]
+  },
+  {
+    "id": 11,
+    "level": "Enterprise",
+    "title": "Enterprise Website Package",
+    "price": "$30,000 - $35,000",
+    "description": "Comprehensive package for large enterprises needing a high-performance site with advanced animations, custom CMS, and extensive digital marketing support.",
+    "pages": "Up to 30",
+
+    "duration": "16-20 weeks",
+    "additional": [
+      "Social Media Marketing - $1,200/month",
+      "Ads - $1,200/month",
+      "SEO Setup - $3,000 (one-time)",
+      "Content Marketing - $2,500/month"
+    ]
+  },
+  {
+    "id": 12,
+    "level": "Enterprise",
+    "title": "Interactive Brand Experience Package",
+    "price": "$50,000 - $60,000+",
+    "description": "Tailored for high-profile brands looking for an immersive, interactive website using 3D animations and custom interactions to engage users.",
+    "pages": "Custom (typically 15+ highly interactive pages",
+
+    "duration": "20-24+ weeks",
+    "additional": [
+      "Social Media Marketing - $1,500/month",
+      "Ads - $1,500/month",
+      "SEO Setup - $4000 (one-time)",
+      "Content Marketing - $3,000/month",
+      "Comprehensive Ad Management (Video, Display, Retargeting) - $1,500/month"
+    ]
+  }
+]
