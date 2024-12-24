@@ -116,7 +116,7 @@ const FullPageNav: React.FC = () => {
                           label === "Home" ? "/" : `/${label.toLowerCase()}`
                         }
                         onClick={handleLinkClick}
-                        className=" text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-eagleLake text-white hover:text-purple-700"
+                        className=" text-2xl cursor-pointer sm:text-3xl md:text-4xl lg:text-5xl font-eagleLake text-white hover:text-purple-700"
                       >
                         {label}
                       </Link>
@@ -128,27 +128,27 @@ const FullPageNav: React.FC = () => {
               <div className="flex flex-wrap gap-10 justify-around items-center w-full  px-[100px] absolute bottom-[25%]">
                 <ul className="text-slate-300 flex flex-wrap gap-4 sm:gap-6 md:gap-8 lg:gap-10">
                   <li>
-                    <a href="#">
+                    <a href="https://www.facebook.com/dipak.light.roshni.diyo" target="_blank">
                       <TiSocialFacebookCircular className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl duration-300 ease-in-out hover:text-blue-700 transform hover:scale-[1.5]" />
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://www.instagram.com/diwakar_codess/" target="_blank">
                       <TiSocialInstagramCircular className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl duration-300 ease-in-out hover:text-pink-500 transform hover:scale-[1.5]" />
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://x.com/DeepakP18273070" target="_blank">
                       <TiSocialTwitterCircular className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl duration-300 ease-in-out hover:text-white transform hover:scale-[1.5]" />
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/dipak-developer/" target="_blank">
                       <TiSocialLinkedinCircular className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl duration-300 ease-in-out hover:text-sky-500 transform hover:scale-[1.5]" />
                     </a>
                   </li>
                 </ul>
-                <div className="text-slate-500">
+                <div className="text-slate-300">
                   <p className="text-sm font-audioWide">info@websero.com</p>
                   <code>+977 - 986 721 663 0</code>
                 </div>
