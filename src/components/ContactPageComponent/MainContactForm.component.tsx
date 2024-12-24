@@ -50,7 +50,7 @@ export default function MainContactFormComponent() {
       console.log("Email successfully sent:", data);
       toast.success("Form submitted successfully!", {
         style: {
-          background: "linear-gradient(to top right, blue, purple, red)",
+          background: "linear-gradient(to top right, #6c5ce7, #be2edd, purple, #e84393)",
           color: "white",
           zIndex: 9999,
         },
