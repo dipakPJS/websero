@@ -1,3 +1,4 @@
+"use client"
 import GradientTextComponent from "../GradientTextComponent/GradientText.component";
 import { motion } from "framer-motion";
 import { fadeIn } from "@/utils/variants";

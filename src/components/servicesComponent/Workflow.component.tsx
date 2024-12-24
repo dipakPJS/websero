@@ -1,3 +1,4 @@
+"use client"
 import WorkFlowData from "@/data/WorkflowData.json";
 import GradientTextComponent from "../GradientTextComponent/GradientText.component";
 import { MeteorsComponent } from "../metorsComponent/metors.component";

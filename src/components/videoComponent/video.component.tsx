@@ -1,3 +1,5 @@
+"use client"
+
 interface VideoProps {
   videoUrl: string;
   classNames: string;

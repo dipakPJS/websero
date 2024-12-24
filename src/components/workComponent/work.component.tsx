@@ -1,3 +1,4 @@
+"use client"
 import { EmblaOptionsType } from "embla-carousel";
 
 import "./workfont.styles.css";

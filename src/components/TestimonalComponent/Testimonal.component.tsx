@@ -1,3 +1,4 @@
+"use client"
 import { AnimatedTestimonials } from "@/components/ui/animated-testimonials";
 import TestimonialData from "@/data/TestimonialData.json";
 import { motion } from "framer-motion";
