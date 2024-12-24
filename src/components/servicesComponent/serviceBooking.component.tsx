@@ -39,7 +39,7 @@ export default function ServiceBookingComponent() {
         {/* video */}
         <div className="absolute inset-0">
           <VideoComponent
-            videoUrl="/videos/neon-jungle.mp4"
+            videoUrl="/videos/particles.mp4"
             classNames="absolute top-0 left-0 w-full h-full object-cover rounded-[2rem] sm:rounded-[5rem]"
           />
         </div>
