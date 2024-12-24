@@ -80,28 +80,28 @@ export default function FooterComponent() {
                 Socials
               </p>
               <a
-                href="https://www.instagram.com/devfenz_infosys/"
+                href="https://www.instagram.com/diwakar_codess/"
                 target="_blank"
                 className="text-left flex gap-1 text-pink-500 text-xl font-iceBerg    pl-5"
               >
                 <RiInstagramFill className="text-2xl" /> Instagram
               </a>
               <a
-                href="https://www.facebook.com/profile.php?id=61565954895531"
+                href="https://www.facebook.com/dipak.light.roshni.diyo"
                 target="_blank"
                 className="text-left flex gap-1 text-blue-600 text-xl font-iceBerg pl-5 "
               >
                 <BsFacebook className="text-2xl" /> Facebook
               </a>
               <a
-                href="https://www.youtube.com/channel/UCbWGGke4VYG0M-0kC9JKrbw"
+                href="https://www.youtube.com/@WebseroCreations"
                 target="_blank"
                 className="text-left flex gap-1 text-[red] text-xl font-iceBerg pl-5 "
               >
                 <ImYoutube className="text-2xl" /> YouTube
               </a>
               <a
-                href="https://www.youtube.com/channel/UCbWGGke4VYG0M-0kC9JKrbw"
+                href="https://x.com/DeepakP18273070"
                 target="_blank"
                 className="text-left flex gap-1 text-white text-xl font-iceBerg pl-5 "
               >
