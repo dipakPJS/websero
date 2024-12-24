@@ -5,8 +5,8 @@ import { useState } from "react";
 import { useCursor } from "@/context/CursorContext";
 import GradientTextComponent from "../GradientTextComponent/GradientText.component";
 
-import ProjectSelect from "../../data/ProjectSelect.json";
-import BudgetSelect from "../../data/BudgetData.json";
+import ProjectSelect from "@/data/ProjectSelect.json";
+import BudgetSelect from "@/data/BudgetData.json";
 
 // toasts
 import { ToastContainer, toast } from 'react-toastify';

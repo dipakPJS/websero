@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { CardSpotLightComponent } from "../cardSpotLightComponent/CardSpotLight.component";
-import pricingData from "../../data/pricingData.json"; // Adjust the path as necessary
+import pricingData from "@/data/pricingData.json"; 
 
 const PricingFilterComponent: React.FC = () => {
   const [activeLevel, setActiveLevel] = useState<

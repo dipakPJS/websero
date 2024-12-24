@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
-import AboutData from "../../data/AboutData.json";
+import AboutData from "@/data/AboutData.json";
 
 export default function InfoTextHorizontalScrollComponent() {
   const targetRef = useRef<HTMLDivElement | null>(null);

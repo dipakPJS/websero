@@ -1,5 +1,5 @@
 import { AnimatedTestimonials } from "@/components/ui/animated-testimonials";
-import TestimonialData from "../../data/TestimonialData.json";
+import TestimonialData from "@/data/TestimonialData.json";
 import { motion } from "framer-motion";
 import { fadeIn } from "@/utils/variants";
 import GradientTextComponent from "../GradientTextComponent/GradientText.component";

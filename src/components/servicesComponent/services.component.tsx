@@ -6,7 +6,7 @@ import { fadeIn } from "@/utils/variants";
 import { LiaPlusSolid } from "react-icons/lia";
 import { LiaTimesSolid } from "react-icons/lia";
 
-import ServicesData from "../../data/ServicesData.json";
+import ServicesData from "@/data/ServicesData.json";
 
 interface serviceStyles {
   colors: string[];

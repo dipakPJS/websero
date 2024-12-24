@@ -6,9 +6,9 @@ import { EmblaProvider}  from "../../context/EmblaContext"
 
 
 import "./embla.styles.css";
-import Link from "next/link";
+ 
 
-import data from "../../data/WorkData.json";
+import data from "@/data/WorkData.json";
 import Image from "next/image";
 
 import { CgArrowsExpandUpRight } from "react-icons/cg";

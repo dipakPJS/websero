@@ -2,11 +2,11 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import WorkData from "../../data/WorkData.json";
-import { ShootingStarsComponent } from "@/components/ShootingStarsComponent/ShootingStars.component";
+import WorkData from "@/data/WorkData.json";
+
 import Image from "next/image";
 import GradientTextComponent from "../GradientTextComponent/GradientText.component";
-import Link from "next/link";
+ 
 import { CgArrowsExpandUpRight } from "react-icons/cg";
 
 // Variants for random fade directions

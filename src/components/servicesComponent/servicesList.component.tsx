@@ -3,7 +3,7 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { fadeIn } from "@/utils/variants";
 import ServiceParallaxComponent from "@/components/servicesComponent/serviceParallax.component";
-import ServiceData from "../../data/ServicePageData.json";
+import ServiceData from "@/data/ServicePageData.json";
 
 export default function ServicesListComponent() {
   // Framer Motion hook for scroll progress

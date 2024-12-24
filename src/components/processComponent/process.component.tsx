@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { fadeIn } from "@/utils/variants";
-import ProcessData from "../../data/ProcessData.json";
+import ProcessData from "@/data/ProcessData.json";
 import { MeteorsComponent } from "../metorsComponent/metors.component";
 
 export default function ProcessComponent() {
