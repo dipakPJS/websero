@@ -79,7 +79,7 @@ const FullPageNav: React.FC = () => {
             animate="visible"
             exit="exit"
             variants={navVariants}
-            className="fixed inset-0 z-[350] bg-black/80 shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] backdrop-blur-[20px]"
+            className="fixed inset-0 z-[350] bg-[#f702ff1e] shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] backdrop-blur-[20px]"
           >
             <div className="logo p-5 w-full">
               <Link href={"/"}  onClick={handleLinkClick}>
