@@ -1,6 +1,5 @@
 import "./homeComponent.styles.css";
 import LineMotionComponent from "../lineMotionComponent/lineMotion.component";
-import VideoComponent from "../videoComponent/video.component";
 import ScrollDownLottieComponent from "../scrollDownLottieComponent/ScrollDownLottie.component";
 import VerticalText from "../verticalText/VerticalText.component";
 import IntroComponent from "../introComponent/Intro.component";
@@ -10,6 +9,7 @@ import FeatureTextComponent from "../featureTextComponent/FeatureText.component"
 import { motion } from "framer-motion";
 import { fadeIn } from "@/utils/variants";
 import { useCursor } from "@/context/CursorContext";
+import { ShootingStarsComponent } from "../ShootingStarsComponent/ShootingStars.component";
 
 export default function HomeComponent() {
   const { textLeave } = useCursor();
@@ -19,10 +19,7 @@ export default function HomeComponent() {
       <div onMouseEnter={textLeave} className="homepage relative h-[110vh]">
         {/* homepage first starts */}
         <div className="homepage-first absolute h-full w-full">
-          <VideoComponent
-            videoUrl="/videos/stars.mp4"
-            classNames="absolute top-0 left-0 w-full h-full object-cover"
-          />
+          <ShootingStarsComponent />
         </div>
         {/* homepage first ends */}
 
