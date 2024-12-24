@@ -135,7 +135,7 @@ export default function FooterComponent() {
           <div className="w-full mt-5">
             <p className="text-gray-200 text-[16px] font-bold">
               &copy; {DATE}, Wesero{" "}
-              <GradientTextComponent span={true} texts="Creatives." /> All
+              <GradientTextComponent span={true} texts="Creative." /> All
               Rights Reserved.
             </p>
           </div>
