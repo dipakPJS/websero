@@ -5,7 +5,7 @@
     "title": "Portfolio Website",
     "tags": ["Web Design", "web Development"],
     "image": "/images/work1.png",
-    "link": "https://www.awwwards.com/"
+    "link": "https://dipakpokharel.vercel.app/"
   },
 
   {
@@ -38,9 +38,9 @@
   {
     "id": 5,
     "category": "Design",
-    "title": "Mobile App Design",
-    "tags": ["Web Design", "web Development"],
+    "title": "UI/UX Design",
+    "tags": ["Mobile Design", "UI/UX"],
     "image": "/images/work5.png",
-    "link": "https://www.awwwards.com/"
+    "link": "http://bit.ly/3PbDnaN"
   }
 ]

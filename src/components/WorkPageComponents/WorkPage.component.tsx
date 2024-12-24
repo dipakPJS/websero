@@ -114,12 +114,12 @@ const WorkPage: React.FC = () => {
                 exit="exit"
                 className="py-5 shadow flex flex-col gap-5"
               >
-                <div className="relative group rounded-3xl overflow-hidden  border border-[#ffffff]">
+                <div className="relative group rounded-3xl overflow-hidden border">
                   <Image
                     src={item.image}
                     alt={item.title}
                     layout="responsive"
-                     loading="lazy"
+                    loading="lazy"
                     width={500}
                     height={300}
                     className="object-cover w-full h-auto transition-transform duration-500 group-hover:scale-110 group-hover:brightness-75"
@@ -130,7 +130,7 @@ const WorkPage: React.FC = () => {
                     target="_blank"
                     className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-[0.8] transition-opacity duration-500"
                   >
-                    <button className="p-10 rounded-full bg-[#8200cdce] shadow-lg">
+                    <button className="p-10 rounded-full bg-[#0000009f] shadow-lg">
                       <CgArrowsExpandUpRight className="text-[yellow] scale-[2]" />
                     </button>
                   </a>
