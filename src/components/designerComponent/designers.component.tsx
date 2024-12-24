@@ -1,3 +1,4 @@
+"use client"
 import { motion } from "framer-motion";
 import GradientTextComponent from "../GradientTextComponent/GradientText.component";
 import SparklesComponent from "../sparklesComponent/sparkles.component";

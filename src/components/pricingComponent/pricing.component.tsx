@@ -1,3 +1,4 @@
+"use client"
 import { motion } from "framer-motion";
 import { fadeIn } from "@/utils/variants";
 import PricingFilterComponent from "./pricingFilters.component";

@@ -1,3 +1,4 @@
+"use client"
 import React from "react";
 import { Cover } from "@/components/ui/cover";
 import Link from "next/link";

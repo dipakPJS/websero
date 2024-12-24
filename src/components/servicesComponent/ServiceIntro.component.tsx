@@ -1,3 +1,4 @@
+"use client"
 import ServiceTitleComponent from "./ServiceTitle.component";
 import Lottie from "lottie-react";
 import CircleLottie from "../../../public/lottie/circlelottie.json";

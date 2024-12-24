@@ -1,3 +1,5 @@
+"use client";
+
 import Lottie from "lottie-react";
 import scrollDownLottie from "../../../public/lottie/scrollDown.json";
  

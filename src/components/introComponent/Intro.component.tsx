@@ -1,3 +1,4 @@
+"use client"
 import { FlipWordsComponent } from "../flipingWordsComponent/FlipingWords.component";
 import { BorderGradientButton } from "../buttonComponent/BorderGradientButton.component";
 

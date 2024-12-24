@@ -1,3 +1,4 @@
+"use client"
 import React from "react";
 import { BackgroundGradientAnimation } from "../ui/background-gradient-animation";
 import { CoverComponent } from "../coverComponent/cover.component";

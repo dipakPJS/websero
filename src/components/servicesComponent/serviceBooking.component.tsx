@@ -1,3 +1,4 @@
+"use client"
 import VideoComponent from "../videoComponent/video.component";
 import { PiLinktreeLogoDuotone } from "react-icons/pi";
 import { useCursor } from "@/context/CursorContext";

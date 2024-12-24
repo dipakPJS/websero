@@ -1,3 +1,4 @@
+"use client"
 import GradientTextComponent from "../GradientTextComponent/GradientText.component";
 import ServiceComponent from "./services.component";
 

@@ -1,3 +1,4 @@
+"use client"
 import { motion } from "framer-motion";
 
 // Variants for random fade directions

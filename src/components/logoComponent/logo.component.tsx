@@ -1,3 +1,4 @@
+"use client"
 import Image from "next/image"
 import GradientTextComponent from "../GradientTextComponent/GradientText.component"
 import Link from "next/link"

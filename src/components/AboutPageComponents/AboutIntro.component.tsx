@@ -1,4 +1,4 @@
-
+"use client";
 import VideoComponent from "../videoComponent/video.component";
 import IntroTitleComponent from "./IntroTitle.component";
 

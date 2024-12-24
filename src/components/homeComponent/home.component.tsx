@@ -1,3 +1,4 @@
+"use client"
 import "./homeComponent.styles.css";
 import LineMotionComponent from "../lineMotionComponent/lineMotion.component";
 import ScrollDownLottieComponent from "../scrollDownLottieComponent/ScrollDownLottie.component";

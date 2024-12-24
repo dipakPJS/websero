@@ -1,3 +1,4 @@
+"use client"
 import { motion, useScroll, useTransform } from "framer-motion";
 import GradientTextComponent from "../GradientTextComponent/GradientText.component";
 

@@ -1,3 +1,4 @@
+"use client"
 import { BackgroundGradientComponent } from "../backgroundGradientComponent/backgroundGradient.component";
 
 export default function ContactGradientComponent() {
