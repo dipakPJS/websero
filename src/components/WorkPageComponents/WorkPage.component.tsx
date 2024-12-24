@@ -112,9 +112,9 @@ const WorkPage: React.FC = () => {
                 initial="hidden"
                 animate="visible"
                 exit="exit"
-                className="p-5 shadow rounded-[30px] flex flex-col gap-10 border border-[#008cff] bg-transparent"
+                className="py-5 shadow flex flex-col gap-5"
               >
-                <div className="relative group rounded-[50px] overflow-hidden  border border-[#ffa502]">
+                <div className="relative group rounded-3xl overflow-hidden  border border-[#ffffff]">
                   <Image
                     src={item.image}
                     alt={item.title}
