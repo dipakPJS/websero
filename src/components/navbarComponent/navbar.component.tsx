@@ -87,8 +87,8 @@ const FullPageNav: React.FC = () => {
                 alt="logo image"
                 height={100}
                 width={100}
-                src={"/images/websero.png"}
-                className="mx-auto h-[70px] w-[70px] lg:h-[100px] lg:w-[100px]"
+                src={"/images/logo.png"}
+                className="mx-auto h-[70px] lg:h-[100px] w-auto"
                 />
                 </Link>
             </div>

@@ -5,9 +5,9 @@ import Link from "next/link"
 export default function LogoComponent() {
     return (
         <div className="absolute top-5 flex justify-between items-center  pl-[50px] z-[200]">
-        <Link href={"/"} className="flex space-x-2 items-center">
+        <Link href={"/"} className="flex space-x-3 items-center">
         <Image 
-         src={"/images/websero.png"}
+         src={"/images/logo.png"}
          height={100}
          width={100}
          alt="logo Image"

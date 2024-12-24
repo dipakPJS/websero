@@ -22,7 +22,7 @@ export default function FooterComponent() {
         <div className="w-full  py-10 px-10  grid grid-cols-1 lg:grid-cols-[45%_55%] md:grid-cols-1 sm:grid-cols-1">
           <div className="w-full flex flex-col gap-3 justify-around min-h-[18rem]">
             <Image
-              src={"/images/websero.png"}
+              src={"/images/logo.png"}
               height={100}
               width={100}
               alt="websero creatives"
