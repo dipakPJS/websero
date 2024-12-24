@@ -1,65 +1,46 @@
 [
-  { 
-  "id": 1,
-   "category": "Websites",
+  {
+    "id": 1,
+    "category": "Websites",
     "title": "Portfolio Website",
     "tags": ["Web Design", "web Development"],
-    "image": "/images/portfolio.png",
+    "image": "/images/work1.png",
     "link": "https://www.awwwards.com/"
-   },
- 
-  { "id": 2, 
-  "category": "Social Media",
-   "title": "Instagram Campaign",
-   "tags": ["Web Design", "web Development"],
-    "image": "/images/mobile-design.png",
+  },
+
+  {
+    "id": 2,
+    "category": "Social Media",
+    "title": "Instagram Campaign",
+    "tags": ["Web Design", "web Development"],
+    "image": "/images/work2.png",
     "link": "https://www.awwwards.com/"
-   },
-  
-  { "id": 3,
-   "category": "Branding",
+  },
+
+  {
+    "id": 3,
+    "category": "Branding",
     "title": "Logo Design",
     "tags": ["Web Design", "web Development"],
-    "image": "/images/portfolio.png",
+    "image": "/images/work3.png",
     "link": "https://www.awwwards.com/"
-   },
+  },
 
-  { "id": 4,
-   "category": "Design",
+  {
+    "id": 4,
+    "category": "Design",
     "title": "Mobile App Design",
     "tags": ["Web Design", "web Development"],
-    "image": "/images/mobile-design.png",
+    "image": "/images/work4.png",
     "link": "https://www.awwwards.com/"
-   },
+  },
 
-  { "id": 5,
-   "category": "Design",
+  {
+    "id": 5,
+    "category": "Design",
     "title": "Mobile App Design",
     "tags": ["Web Design", "web Development"],
-    "image": "/images/portfolio.png",
+    "image": "/images/work5.png",
     "link": "https://www.awwwards.com/"
-   },
-  { "id": 6,
-   "category": "Design",
-    "title": "Mobile App Design",
-    "tags": ["Web Design", "web Development"],
-    "image": "/images/mobile-design.png",
-    "link": "https://www.awwwards.com/"
-   },
-  { "id": 7,
-   "category": "Design",
-    "title": "Mobile App Design",
-    "tags": ["Web Design", "web Development"],
-    "image": "/images/portfolio.png",
-    "link": "google.com"
-   },
-  { "id": 8,
-   "category": "Design",
-    "title": "Mobile App Design",
-    "tags": ["Web Design", "web Development"],
-    "image": "/images/mobile-design.png",
-    "link": "https://www.awwwards.com/"
-   }
- 
-  
+  }
 ]
