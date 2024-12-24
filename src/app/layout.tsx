@@ -3,13 +3,13 @@ import localFont from "next/font/local";
 import "./globals.css";
 
 import { ReactLenis } from "@/utils/lenis";
- 
+
 import AudioComponent from "@/components/audioComponent/Audio.component";
 import FullPageNav from "@/components/navbarComponent/navbar.component";
 import { CursorProvider } from "@/context/CursorContext";
 import CursorComponent from "@/components/cursorComponent/Cursor.component";
 import LogoComponent from "@/components/logoComponent/logo.component";
-
+import { AudioProvider } from "@/context/AudioContext";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -39,12 +39,14 @@ export default function RootLayout({
           className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         >
           <div className="min-h-screen relative">
-          <CursorProvider>
-            <CursorComponent />
-            <AudioComponent />
-            <LogoComponent />
-          <FullPageNav />
-            {children}
+            <CursorProvider>
+              <AudioProvider>
+                <CursorComponent />
+                <AudioComponent />
+                <LogoComponent />
+                <FullPageNav />
+                {children}
+              </AudioProvider>
             </CursorProvider>
           </div>
         </body>
