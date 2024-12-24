@@ -13,7 +13,7 @@ export default function AboutIntroComponent() {
         {/* Video Wrapper */}
 
         <VideoComponent
-          videoUrl="/videos/trait.mp4"
+          videoUrl="/videos/hole.mp4"
           classNames="absolute top-0 left-0 w-full h-full object-cover rounded-[50px]"
         />
         
