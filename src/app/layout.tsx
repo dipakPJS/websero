@@ -10,7 +10,7 @@ import { CursorProvider } from "@/context/CursorContext";
 import CursorComponent from "@/components/cursorComponent/Cursor.component";
 import LogoComponent from "@/components/logoComponent/logo.component";
 import { AudioProvider } from "@/context/AudioContext";
-
+ 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
@@ -41,6 +41,7 @@ export default function RootLayout({
           <div className="min-h-screen relative">
             <CursorProvider>
               <AudioProvider>
+        
                 <CursorComponent />
                 <AudioComponent />
                 <LogoComponent />

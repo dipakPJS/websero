@@ -12,7 +12,6 @@ import ServicesComponent from "@/components/servicesComponent/mainServices.compo
 import { ShootingStarsComponent } from "@/components/ShootingStarsComponent/ShootingStars.component";
 import { AnimatedTestimonialsComponent } from "@/components/TestimonalComponent/Testimonal.component";
 import WorkComponent from "@/components/workComponent/work.component";
- 
 
 export default function Home() {
   return (
